@@ -52,7 +52,7 @@ All code in this repository is Python 3
   1. [tox](https://tox.readthedocs.org/en/latest/)
   1. git
   1. Docker
-    - [Install Instructions for varios distributions](https://docs.docker.com/engine/installation/). Docker needs to be configued so your user can run docker containers. The command `docker run alpine  /bin/echo 'Hello, World!'` when run at a new terminal as your user should just print `"Hello, World!"`. If it says something like "Unable to find image 'alpine:latest' locally" then re-run and the message should go away.
+    - [Install Instructions for various distributions](https://docs.docker.com/engine/installation/). Docker needs to be configued so your user can run docker containers. The command `docker run alpine  /bin/echo 'Hello, World!'` when run at a new terminal as your user should just print `"Hello, World!"`. If it says something like "Unable to find image 'alpine:latest' locally" then re-run and the message should go away.
   1. Python 3.4
     - Arch Linux: `sudo pacman -S python`
     - Fedora 23 Workstation: Already installed by default / no steps
